@@ -16,7 +16,7 @@ class VideoPreview extends React.Component {
     beginDraw(canvas) {
         const ctx = canvas.getContext('2d');
         const font_size = 10;
-        const message = "My preview here!";
+        const message = "Your preview here!";
         ctx.font = `${font_size}px "${VideoData.font}"`;
         ctx.fillText(
             message,
