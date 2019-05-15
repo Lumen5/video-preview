@@ -1,6 +1,8 @@
 Overview
 --------
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Lumen5/video-preview.svg)](https://greenkeeper.io/)
+
 One of the most important things that we do at Lumen5 is create realistic previews of what the final rendered video will look like. This task is to create a simple prototype of the preview using using either webgl or the canvas API.
 
 Running The Project
